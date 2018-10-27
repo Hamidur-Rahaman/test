@@ -1,0 +1,4 @@
+body{background-image:url('../image/bgimage.jpg'); background-attachment:fixed;}
+.mdiv{width:90%;background-color:#f3f3f3; min-height:1500px; margin:auto;}
+.sdiv{width:15%;background-color:red;min-height:300px;float:left; margin-right:5%;}
+.rdiv{width:80%;background-color:green;min-height:300px;float:left;}
